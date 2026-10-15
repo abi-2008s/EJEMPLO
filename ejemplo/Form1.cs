@@ -43,7 +43,7 @@ namespace ejemplo
             // Evitar fechas de nacimiento futuras
             if (fechaNacimiento.Date > hoy)
             {
-                MessageBox.Show("¡Todavía no has nacido! 😂");
+                MessageBox.Show("¡Todaaavía no has nacido! 😂");
                 return;
             }
 

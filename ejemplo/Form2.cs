@@ -19,7 +19,7 @@ namespace ejemplo
             lblResultado.Text =
             $"¡Hola, {nombre}!\n\n" +
             $"Tienes {edad} años...\n\n" +
-            "¿En serio creíste que iba a revelar tu edad? 😂";
+            "¿En serio creíste que iba a revelaaar tu edad? 😂";
         }
 
         private void Form2_Load(object sender, EventArgs e)
